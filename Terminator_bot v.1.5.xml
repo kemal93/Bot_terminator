@@ -1,4 +1,4 @@
-﻿<xml xmlns="http://www.w3.org/1999/xhtml" collection="false">
+﻿<xml xmlns="http://www.w3.org/1999/xhtml" collection="true">
   <block type="trade" id="xgH69|xFn9=70w.*3Vo@" x="0" y="0">
     <field name="MARKET_LIST">volidx</field>
     <field name="SUBMARKET_LIST">random_index</field>
